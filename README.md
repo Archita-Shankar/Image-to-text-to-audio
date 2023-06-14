@@ -2,4 +2,5 @@
 Mini Project
 
 
-![GitHub README (2)](https://github.com/Archita-Shankar/Image-to-text-to-audio/assets/121395581/2bdafb06-9f8f-4bc7-9aeb-35fd72bcf506)
+
+![GitHub README (3)](https://github.com/Archita-Shankar/Image-to-text-to-audio/assets/121395581/49850117-3bbd-424b-8b05-9c3b572e3e80)
